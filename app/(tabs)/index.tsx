@@ -4,7 +4,6 @@ import Header from "@/components/Header";
 import MyLimits from "@/components/MyLimits";
 import SliderBox from "@/components/SliderBox";
 import { Box } from "@/components/ui/box";
-import { Card } from "@/components/ui/card";
 import React from "react";
 import { SafeAreaView, ScrollView } from "react-native";
 export default function HomeScreen() {
